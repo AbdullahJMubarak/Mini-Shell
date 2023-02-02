@@ -1,0 +1,9 @@
+total 100
+-rwxr-xr-x 1 abdullah abdullah 27800 Oct 29 07:23 cat_grep
+-rw-rw-rw- 1 abdullah abdullah  3414 Oct 20 12:49 cat_grep.cc
+-rwxr-xr-x 1 abdullah abdullah 27904 Oct 29 07:23 cat_grep_output
+-rw-rw-rw- 1 abdullah abdullah  3885 Oct 20 12:49 cat_grep_output.cc
+-rw-r--r-- 1 abdullah abdullah     0 Nov  2 16:17 ls
+-rwxr-xr-x 1 abdullah abdullah 27656 Oct 29 07:23 ls_output
+-rw-rw-rw- 1 abdullah abdullah  2112 Oct 20 07:17 ls_output.cc
+-rw-rw-rw- 1 abdullah abdullah   335 Oct 20 12:49 Makefile

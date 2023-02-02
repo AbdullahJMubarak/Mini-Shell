@@ -1,0 +1,19 @@
+total 312
+drwxrwxrwx 4 abdullah abdullah  4096 Nov  4 13:02 .
+drwxr-xr-x 7 abdullah abdullah  4096 Oct 31 06:18 ..
+drwxr-xr-x 2 abdullah abdullah  4096 Nov  3 18:36 abc
+-rw-r--r-- 1 abdullah abdullah     0 Nov  4 13:02 abf
+-rw-rw-rw- 1 abdullah abdullah  4662 Nov  4 08:12 command.cc
+-rw-rw-rw- 1 abdullah abdullah   738 Jan  2  2002 command.h
+-rw-r--r-- 1 abdullah abdullah 32960 Nov  4 08:12 command.o
+-rw-r--r-- 1 abdullah abdullah   168 Nov  4 08:26 ddd
+drwxrwxrwx 2 abdullah abdullah  4096 Nov  2 16:17 examples
+-rw-r--r-- 1 abdullah abdullah 44835 Nov  4 12:59 lex.yy.c
+-rw-r--r-- 1 abdullah abdullah 44096 Nov  4 12:59 lex.yy.o
+-rw-rw-rw- 1 abdullah abdullah   338 Oct 20 05:00 Makefile
+-rwxr-xr-x 1 abdullah abdullah 69352 Nov  4 13:00 shell
+-rw-rw-rw- 1 abdullah abdullah   481 Nov  4 12:57 shell.l
+-rw-rw-rw- 1 abdullah abdullah  1632 Nov  4 12:59 shell.y
+-rw-r--r-- 1 abdullah abdullah 43673 Nov  4 13:00 y.tab.c
+-rw-r--r-- 1 abdullah abdullah  2991 Nov  4 13:00 y.tab.h
+-rw-r--r-- 1 abdullah abdullah 26072 Nov  4 13:00 y.tab.o

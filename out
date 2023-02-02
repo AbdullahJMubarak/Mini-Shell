@@ -1,0 +1,23 @@
+-rw-r--r-- 1 abdullah abdullah 40472 Nov  5 08:10 command.o
+total 356
+drwxrwxrwx 4 abdullah abdullah  4096 Nov  5 16:26 .
+drwxr-xr-x 9 abdullah abdullah  4096 Nov  5 06:52 ..
+drwxr-xr-x 2 abdullah abdullah  4096 Nov  3 18:36 abc
+-rw-r--r-- 1 abdullah abdullah  1040 Nov  4 13:02 abf
+-rw-r--r-- 1 abdullah abdullah     0 Nov  4 13:17 ccc
+-rw-rw-rw- 1 abdullah abdullah  8587 Nov  5 08:10 command.cc
+-rw-rw-rw- 1 abdullah abdullah   862 Nov  5 07:18 command.h
+-rw-r--r-- 1 abdullah abdullah 40472 Nov  5 08:10 command.o
+-rw-r--r-- 1 abdullah abdullah   168 Nov  4 08:26 ddd
+drwxrwxrwx 2 abdullah abdullah  4096 Nov  2 16:17 examples
+-rw-r--r-- 1 abdullah abdullah 49438 Nov  5 16:26 lex.yy.c
+-rw-r--r-- 1 abdullah abdullah 49064 Nov  5 16:26 lex.yy.o
+-rw-rw-rw- 1 abdullah abdullah   338 Oct 20 05:00 Makefile
+-rw------- 1 abdullah abdullah    60 Nov  5 08:37 out
+-rw------- 1 abdullah abdullah    60 Nov  5 15:59 out2
+-rwxr-xr-x 1 abdullah abdullah 77368 Nov  5 16:26 shell
+-rw-rw-rw- 1 abdullah abdullah  2247 Nov  5 16:25 shell.l
+-rw-rw-rw- 1 abdullah abdullah  2864 Nov  5 16:26 shell.y
+-rw-r--r-- 1 abdullah abdullah 47488 Nov  5 16:26 y.tab.c
+-rw-r--r-- 1 abdullah abdullah  3457 Nov  5 16:26 y.tab.h
+-rw-r--r-- 1 abdullah abdullah 28344 Nov  5 16:26 y.tab.o
